@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+#power by 1337Player
+
 import re
 import requests
 比赛编号 = "4311"
